@@ -1,0 +1,26 @@
+body {
+    background-image: url(imagem/baby_yoda.png);    
+}
+
+.centralizar {
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color:#0d1604;
+    font-size: 50px;    
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color:#275f01;
+}
